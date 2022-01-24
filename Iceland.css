@@ -1,0 +1,244 @@
+ .u-section-1 {
+  background-image: url("images/vik.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1432px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 900;
+  font-size: 6rem;
+  text-transform: none;
+  margin: 54px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 15px auto 0 464px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none solid;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 42px auto 0 449px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 36px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 893px;
+  margin-bottom: 0;
+  margin-top: 15px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  font-style: normal;
+  text-align: center;
+  margin: -893px 88px 0 47px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1181px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 264px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 249px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 905px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 44px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 679px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 428px;
+  }
+}.u-block-9c19-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-9c19-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-9c19-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-2-1 {
+  background-image: url("images/korabl_zaliv_mlechnyj_put_128252_1920x1080.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2-1 .u-text-1 {
+  font-size: 1.25rem;
+  font-style: normal;
+  margin: 73px 12px 0 40px;
+}
+
+.u-section-2-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  transition-duration: 0.5s;
+  background-image: none;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  margin: -188px auto 60px 481px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2-1 .u-btn-1 {
+    margin-left: 281px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-2-1 .u-btn-1 {
+    margin-left: 61px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-2-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+}
+
+ .u-section-2-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/gory1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2-2 .u-text-1 {
+  margin: 270px 0 0;
+}
+
+.u-section-2-2 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  transition-duration: 0.5s;
+  background-image: none;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  margin: 50px auto 60px 465px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-2-2 .u-btn-1 {
+    border-style: none;
+    margin-left: 265px;
+    padding: 8px 27px 8px 26px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-2-2 .u-btn-1 {
+    margin-left: 45px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-2-2 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+}
