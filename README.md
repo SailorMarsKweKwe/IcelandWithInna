@@ -1,3 +1,3 @@
 # IcelandWithInna
 
-https://sailormarskwekwe.github.io/IcelandWithInna/
+https://sailormarskwekwe.github.io/
